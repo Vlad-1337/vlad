@@ -1,0 +1,9 @@
+pyinstaller --onefile --windowed --icon=icon.ico --add-data "banner.png;." index.py
+
+This is the command that you can compile the file into an exe
+I would of put it into an compiled version but its too large.
+
+Put that command into a terminal and you should be ready to go
+
+
+Its made by Vlad
