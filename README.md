@@ -1,13 +1,14 @@
-Greetings👋
+Greetings 👋
 
-My name is Vlad and I am the owner of PC Check Learning a community that teaches people how to pc checker for free.We also have premium tiers!!!!
-Website:https://pc-check-learning.netlify.app/ \n
-Discord:https://discord.gg/2HneyYnk
+Hi, I’m Vlad, the owner of PC Check Learning — a community dedicated to teaching people how to become PC checkers for free. We also offer premium tiers for those who want even more!
 
-This is my personal website,check it out if you want to know me better!
-Website:https://vl4d.netlify.app/
+🌐 Website: [ pc-check-learning.netlify.app](https://pc-check-learning.netlify.app/)
 
-Feel free to use the tools in this repository they are 100% harmless.
+💬 Discord: [Join our community](https://discord.gg/2HneyYnk)
 
+This is also my personal website, where you can get to know me better:
+[🌐Vʟǟɖ's Hub](https://vl4d.netlify.app/)
 
-Enjoy!<3
+Feel free to explore and use the tools in this repository — they are 100% safe and harmless.
+
+Enjoy! ❤️
